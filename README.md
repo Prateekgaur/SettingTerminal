@@ -1,0 +1,2 @@
+# SettingTerminal
+just Testing
